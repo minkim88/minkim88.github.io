@@ -11,4 +11,5 @@ redirect_from:
 
 <br/>
 
-* Coming soon
+* MBA 8045: Analytics Experience (Instructor; 4.98/5)	Fall 2025
+*	BA 9260: Theory Development (Teaching Assistant)	Spring 2026
