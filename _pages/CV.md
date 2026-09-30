@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 <br/>
-[Download CV](http://minkim88.github.io/files/Jeongmin_Kim_CV.pdf)
-<iframe src="https://docs.google.com/gview?url=http://minkim88.github.io/files/Jeongmin_Kim_CV.pdf&embedded=true" width="100%" height="800px"></iframe>
+[Download CV](http://minkim88.github.io/files/Jeongmin_Kim_CV_Sep_2026.pdf)
+<iframe src="https://docs.google.com/gview?url=http://minkim88.github.io/files/Jeongmin_Kim_CV_Sep_2026.pdf&embedded=true" width="100%" height="800px"></iframe>
